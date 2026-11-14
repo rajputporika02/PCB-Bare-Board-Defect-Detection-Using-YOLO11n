@@ -1,0 +1,47 @@
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Dataset files
+pcb_data/
+datasets/
+data/
+
+# YOLO training runs and outputs
+runs/
+pcb_runs/
+pcb_predictions/
+
+# Model checkpoints and weights
+*.pt
+*.onnx
+*.engine
+
+# Training cache files
+*.cache
+
+# Logs
+*.log
+
+# IDE settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak

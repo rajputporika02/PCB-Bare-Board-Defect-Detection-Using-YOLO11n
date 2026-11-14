@@ -1,0 +1,10 @@
+ultralytics==8.4.212
+torch==2.14.1
+torchvision
+opencv-python
+numpy
+pandas
+matplotlib
+PyYAML
+huggingface_hub
+Pillow
