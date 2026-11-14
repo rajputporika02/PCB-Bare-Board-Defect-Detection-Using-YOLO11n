@@ -1,0 +1,17 @@
+
+path: ./pcb_data
+
+train: images/train
+val: images/val
+test: images/test
+
+nc: 7
+
+names:
+  0: missing_hole
+  1: mouse_bite
+  2: open_circuit
+  3: short
+  4: spur
+  5: spurious_copper
+  6: pin_hole
