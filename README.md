@@ -912,12 +912,12 @@ The trained model can be included if its file size and GitHub hosting limits per
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/PCB-Bare-Board-Defect-Detection.git
+git clone https://github.com/rajputporika02/PCB-Bare-Board-Defect-Detection-Using-YOLO11n.git
 
-cd PCB-Bare-Board-Defect-Detection
+cd PCB-Bare-Board-Defect-Detection-Using-YOLO11n
 ```
 
-Replace `YOUR_USERNAME` with your GitHub username.
+
 
 ### Step 2: Install Dependencies
 
@@ -1000,7 +1000,7 @@ The project provides a practical foundation for automated PCB inspection and dem
 
 **Abid Singh Rajput Porika**
 
-GitHub: Add your GitHub profile URL here.
+
 
 ---
 
@@ -1010,6 +1010,3 @@ GitHub: Add your GitHub profile URL here.
 - Hugging Face for hosting the PCB bare-board defect detection dataset.
 - Google Colab for providing GPU-based development and training infrastructure.
 
-## License
-
-Choose and add an appropriate license before distributing this repository. Also review the original dataset's license and usage conditions before redistributing its images or annotations.
